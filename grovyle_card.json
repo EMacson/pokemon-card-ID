@@ -1,0 +1,26 @@
+{
+  "name": "Abomasnow",
+  "hp": "150",
+  "type": "W",
+  "stage": "1",
+  "evolvesTo": "",
+  "evolvesFrom": "Snover",
+  "weak": "MM",
+  "resist": "",
+  "retreat": "4",
+  "attacks": [
+    {
+      "name": "Lunge Out ",
+      "damage": "90",
+      "cost": "CCC",
+      "effect": ""
+    },
+    {
+      "name": "Frozen Wood ",
+      "damage": "120",
+      "cost": "WWWC",
+      "effect": "If this Pokémon has 2 or more {G} Energy attached, this attack does 120 more damage. "
+    }
+  ],
+  "abilities": []
+}

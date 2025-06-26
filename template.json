@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "hp": "",
+  "type": "",
+  "stage": "",
+  "evolvesTo": "",
+  "evolvesFrom": "",
+  "weak": "",
+  "resist": "",
+  "retreat": "",
+  "attacks": [
+    {
+      "name": "",
+      "damage": "",
+      "cost": "",
+      "effect": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "",
+      "damage": "",
+      "effect": ""
+    }
+  ]
+}
