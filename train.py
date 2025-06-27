@@ -163,6 +163,8 @@ def train():
     input_shape = allImages.shape[1:]       # e.g. (128, 128, 3)
     output_dim = label_array.shape[1]         # label vector length
 
+    task_prompt = "<s_pokemon-card>"
+
     model = Sequential([
         Input(shape=input_shape),
         Conv2D(32, (3, 3), activation='relu'),
