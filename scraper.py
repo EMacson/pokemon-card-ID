@@ -279,6 +279,6 @@ def deleteHTML():
             print(f"Deleted {file_path}")
 
 #deleteHTML()
-#buildData()
+buildData()
 
 #save_html(r.content, 'google_com')
